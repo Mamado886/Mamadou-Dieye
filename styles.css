@@ -226,7 +226,7 @@ header {
     border: 2px solid transparent;
 }
 
-.cta-button:hover {
+.hero-button:hover {
     background-color: transparent;
     border-color: white;
     transform: translateY(-3px);
